@@ -7,4 +7,4 @@ Este projeto foi desenvolvido como exercício prático de **Programação Orient
 O sistema simula uma fábrica de carros capaz de produzir veículos de diferentes marcas.
 ## 📚 Material complementar
 
-👉 [BackEndJava M15 - Material complementar](./BackEndJava-M15.pdf)
+👉 [BackEndJava M15 - Material complementar](./BackEndJava_m15.pdf)
